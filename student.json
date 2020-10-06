@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Mg",
+        "email": "aung@gmail.com",
+        "gender": "Male",
+        "address": "mdy",
+        "profile": "photo\/img6.jpg"
+    },
+    {
+        "name": "Nay  man",
+        "email": "jojo12@gmail.com",
+        "gender": "Female",
+        "address": "jojo",
+        "profile": "photo\/img7.jpg"
+    }
+]
